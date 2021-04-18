@@ -1,0 +1,6 @@
+mongo:
+  db:
+    name: test-db
+    host: 127.0.0.1
+    port: 27017
+    client: mongodb://${mongo.db.host}:${mongo.db.port}
