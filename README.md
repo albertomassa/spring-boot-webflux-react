@@ -1,7 +1,7 @@
 
 # SpringBoot Webflux and React Frontend
 
-A simple project with SpringBoot Webflux and React + Redux Toolkit + Redux Saga
+A simple project with SpringBoot Webflux and React + Redux Toolkit + Redux Saga + MongoDB and Reactive Repositories
 
 ## Versioning
 
